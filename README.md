@@ -1,5 +1,5 @@
 # Breast Cancer Classifier
-Predicting if the cancer diagnosis is benign or malignant based on several observations
+Predicting if the cancer diagnosis is benign or malignant based on several observations using different models - Logistic regression, K-NN, SVC, and Random Forest classification. 
 
 30 features are used, for example:
   - radius
