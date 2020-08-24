@@ -24,10 +24,11 @@ Dataset is linearly separable using all 30 input features
 - Seaborn
 
 ## Confusion Matrix and Classification report
+<a href="url"><img src="https://user-images.githubusercontent.com/67921829/91087635-64ca6c00-e66e-11ea-87b3-3f5edb7f37dd.png" align="left" height="400" width="200" ></a>
 
 
 
 
 
 
-(Source: https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic))
+(Dataset source: https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic))
